@@ -9,5 +9,3 @@ def draw():
     plt.scatter(x, y, s=area, c=colors, alpha=0.5)
     plt.show()
 draw()
-#import idea.classtest
-#eated('shit')
